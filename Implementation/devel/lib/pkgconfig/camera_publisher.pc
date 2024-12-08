@@ -1,0 +1,8 @@
+prefix=/home/shubh_khandelwal/Documents/IIITDM Kancheepuram/Data Science/Project/Implementation/devel
+
+Name: camera_publisher
+Description: Description of camera_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

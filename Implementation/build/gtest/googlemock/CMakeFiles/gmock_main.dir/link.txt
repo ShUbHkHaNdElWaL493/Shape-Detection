@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wl,--dependency-file,CMakeFiles/gmock_main.dir/link.d -shared -Wl,-soname,libgmock_main.so -o ../lib/libgmock_main.so CMakeFiles/gmock_main.dir/src/gmock_main.cc.o  -Wl,-rpath,"/home/shubh_khandelwal/Documents/IIITDM Kancheepuram/Data Science/Project/Implementation/build/gtest/lib" ../lib/libgmock.so ../lib/libgtest.so -lpthread

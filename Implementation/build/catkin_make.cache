@@ -1,0 +1,2 @@
+camera_publisher:image_processor
+-DCATKIN_DEVEL_PREFIX=/home/shubh_khandelwal/Documents/IIITDM Kancheepuram/Data Science/Project/Implementation/devel -DCMAKE_INSTALL_PREFIX=/home/shubh_khandelwal/Documents/IIITDM Kancheepuram/Data Science/Project/Implementation/install -G Unix Makefiles
