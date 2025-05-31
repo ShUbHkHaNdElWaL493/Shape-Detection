@@ -35,9 +35,9 @@
    cd Shape-Detection
    ```
 
-2. Install prerequisites:
+2. Install requirements:
    ```bash
-   pip install -r prerequisites.txt
+   pip install -r requirements.txt
    ```
 
 3. Download and extract the dataset in model and rename the folder as 'dataset':
